@@ -92,7 +92,7 @@ Tự luận (**35%**)
 | `Virtual Design`                |Thiết kế ảo                                                |
 | `Dashboard`               |Bảng điều khiển kỹ thuật số (digital control) hay một giao diện số (VD: Power BI, Tableau…)                    |
 | `Organizations`               | ![image](https://user-images.githubusercontent.com/98181828/189898780-41f57ac0-a54b-4161-ac89-7dc153a1aef1.png)|
-| `Unique business processes`                | ![image](https://user-images.githubusercontent.com/98181828/189898834-cc68eae7-cc41-4e7e-8c86-78b82eff0356.png)|
+| `Unique business processes`                | ![image](https://user-images.githubusercontent.com/98181828/189898834-cc68eae7-cc41-4e7e-8c8678b82eff0356.png)|
 | `Unique business culture`                | Văn hóa riêng của doanh nghiệp  |
 | `Organizational politics`                | Chính sách của tổ chức   |
 | `Business Perspective`                | Góc nhìn doanh nghiệp, góc nhìn quản lí  |
@@ -110,8 +110,7 @@ Tự luận (**35%**)
 ## Buổi 4: Ngày: 14/09/2022
 | Keywords             | Explaination                                                                                         |
 |:-------------------- |:--------------------------------------------------------------------------------------------------|
-| `BFD (Block Flow Diagram)`                |Là bản vẽ khởi đầu để phát triển ý tưởng, là bản vẽ cho ta cái nhìn tổng
- quan, được mô tả theo cách đơn giản nhất phục vụ các bước đi sau này.|
+| `BFD (Block Flow Diagram)`                |Là bản vẽ khởi đầu để phát triển ý tưởng, là bản vẽ cho ta cái nhìn tổng  quan, được mô tả theo cách đơn giản nhất phục vụ các bước đi sau này.|
 | `DFD (Data Flow Diagram)`               |Được xây dựng dựa trên các hệ thống và quy trình để tối ưu việc vận hành|
 | `ERD (Enity Relationship Diagram)`               |Business Function Diagram (Sơ đồ chức năng kinh doanh)|
 | `TPS (Transaction Process Systems)`                | Xử lí các dữ liệu giao dịch mà tổ chức thực hiện hoặc giao dịch với khách hàng, nhà cung cấp hoặc với nhân viên của tổ chức.|
@@ -179,8 +178,7 @@ Tự luận (**35%**)
 |`	ipconfig	`|	Kiểm tra địa chỉ IP	|
 |`	RD 	`|	xóa nhanh một thư mục bất kì 	|
 |`	MD 	`|	Tạo thư mục trong ổ 	|
-|`	TASKKILL 	`|	"Tắt phần mềm trong trường
- hợp phần mềm chạy đang gặp vấn đề "	|
+|`	TASKKILL 	`|	"Tắt phần mềm trong trường hợp phần mềm chạy đang gặp vấn đề "	|
 |`	ATTRIB 	`|	Đặt thêm thuộc tính cho thư mục 	|
 |`	tasklist 	`|	Kiểm tra các tiến trình đang hoạt động 	|
 |`	ps aux	`|	Kiểm tra các tiến trình đang hoạt động 	|
@@ -200,38 +198,26 @@ Tự luận (**35%**)
 
 |Key word| giải thích|
 |:-------------------- |:--------------------------------------------------------------------------------------------------|
-|`	Cookie 	`|	"Cookie là những tập tin một trang web gửi đến máy người dùng và được
- lưu lại thông qua trình duyệt khi người dùng truy cập trang web đó."	|
-|`	Web Browser	`|	"Công dụng của trình duyệt web chính là 
-giúp bạn có thể truy cập các trang web mà bạn muốn"	|
+|`	Cookie 	`|	"Cookie là những tập tin một trang web gửi đến máy người dùng và được lưu lại thông qua trình duyệt khi người dùng truy cập trang web đó."	|
+|`	Web Browser	`|	"Công dụng của trình duyệt web chính là giúp bạn có thể truy cập các trang web mà bạn muốn"	|
 |`	Spyware	`|	-	|
-|`	Trojan 	`|	" là một loại phần mềm ác tính. Không giống như virus, nó không có
- chức năng tự sao chép nhưng lại có chức năng hủy hoại tương tự virus."	|
+|`	Trojan 	`|	" là một loại phần mềm ác tính. Không giống như virus, nó không có chức năng tự sao chép nhưng lại có chức năng hủy hoại tương tự virus."	|
 |`	Optus	`|	Công ty thương mại viễn thông tại Úc	|
-|`	"Information Rights
- and Obliagations"	`|	"Quyền và nghĩa vụ 
-liên quan đến thông tin "	|
-|`	"Property Rights
- and Obligations"	`|	"Quyền và nghĩa vụ 
-liên quan đến tài sản"	|
+|`	"Information Rights and Obliagations"	`|	"Quyền và nghĩa vụ liên quan đến thông tin "	|
+|`	"Property Rights and Obligations"	`|	"Quyền và nghĩa vụ liên quan đến tài sản"	|
 |`	Accountabilly and Control 	`|	Trách nhiệm giải trình và kiểm soát 	|
 |`	-	`|	"Chiến lược quốc gia về nghiên, ứng dụng 
 và phát triển trí tuệ nhân tạo đến năm 2030"	|
-|`	Quality of life	`|	"Chất lượng cuộc sống 
-(lĩnh vực kinh doanh)"	|
-|`	"NORA 
-(Nonbvious Relationship Awareness)"	`|	"Công nghệ nhận thức
- mối quan hệ cục bộ "	|
+|`	Quality of life	`|	"Chất lượng cuộc sống  (lĩnh vực kinh doanh)"	|
+|`	"NORA  (Nonbvious Relationship Awareness)"	`|	"Công nghệ nhận thức  mối quan hệ cục bộ "	|
 |`	CIC (Credit Information Center)	`|	Trung tâm hệ thống thông tin tín dụng 	|
 |`	"Watch" list	`|	Danh sách đen 	|
 |`	Incident and Arrest Systems	`|	Hệ thống sự cố và bắt giữ	|
 |`	Customer Transaction Systems	`|	Hệ thống giao dịch khách hàng	|
 |`	Profiling data	`|	Phân tích dữ liệu và đánh giá chất lượng dữ liệu 	|
-|`	Doubling of computer power	`|	"Nhiều tổ chức phụ thuộc vào hệ thống 
-máy tính cho các hoạt động quan trọng"	|
+|`	Doubling of computer power	`|	"Nhiều tổ chức phụ thuộc vào hệ thống máy tính cho các hoạt động quan trọng"	|
 |`	Rapidly declining data storage costs	`|	Có thể dễ dàng duy trì cơ sở dữ liệu chi tiết về các cá nhân	|
-|`	Networking advances and the Internet	`|	"Sao chép dữ liệu từ vị trí này sang vị trí khác 
-và truy cập dữ liệu cá nhân từ các vị trí từ xa"	|
+|`	Networking advances and the Internet	`|	"Sao chép dữ liệu từ vị trí này sang vị trí khác  và truy cập dữ liệu cá nhân từ các vị trí từ xa"	|
 {{< admonition tip "Bài Tập Về Nhà" >}}
 
 -	Cookies là gì?
@@ -243,17 +229,13 @@ và truy cập dữ liệu cá nhân từ các vị trí từ xa"	|
 
 |Key word| giải thích|
 |:-------------------- |:--------------------------------------------------------------------------------------------------|
-|`	Embedded Software	`|	"Một phần của ứng dụng trên chip hoặc một phần
- vi mạch có vai trò vô cùng quan trọng với cơ quan chính."	|
+|`	Embedded Software	`|	"Một phần của ứng dụng trên chip hoặc một phần vi mạch có vai trò vô cùng quan trọng với cơ quan chính."	|
 |`	IT Infrastructure	`|	Chỉ một kho chứa các thành phần công nghệ thông tin	|
 |`	IT Strategy	`|	Chiến lược công nghệ thông tin 	|
 |`	Service Platform	`|	Phần mềm dịch vụ 	|
 |`	Information Technology 	`|	Thông tin công nghệ 	|
-|`	Microsoft Azue	`|	"Là một nền tảng điện toán đám mây công cộng với các giải pháp bao gồm
- Cơ sở hạ tầng dưới dạng dịch vụ (IaaS), Nền tảng dưới dạng 
-dịch vụ (PaaS) và Phần mềm dưới dạng dịch vụ (SaaS)"	|
-|`	Amazon Web Service (AWS)	`|	"là nền tảng đám mây toàn diện và được sử dụng rộng rãi nhất, 
-cung cấp trên 200 dịch vụ đầy đủ tính năng từ các trung tâm dữ liệu trên toàn thế giới."	|
+|`	Microsoft Azue	`|	"Là một nền tảng điện toán đám mây công cộng với các giải pháp bao gồm Cơ sở hạ tầng dưới dạng dịch vụ (IaaS), Nền tảng dưới dạng  dịch vụ (PaaS) và Phần mềm dưới dạng dịch vụ (SaaS)"	|
+|`	Amazon Web Service (AWS)	`|	"là nền tảng đám mây toàn diện và được sử dụng rộng rãi nhất,  cung cấp trên 200 dịch vụ đầy đủ tính năng từ các trung tâm dữ liệu trên toàn thế giới."	|
 |`	Multitiered Server	`|	Đa máy chủ	|
 |`	Virtual Machine	`|	" Một chương trình giả lập một hệ thống máy tính, được
  chạy trên hệ điều hành chủ và hoạt động như một máy tính thật."	|
@@ -261,20 +243,16 @@ cung cấp trên 200 dịch vụ đầy đủ tính năng từ các trung tâm d
 |`	Data Warehouse	`|	Kho lưu trữ dữ liệu lưu trữ bằng thiết bị điện tử của một tổ chức	|
 |`	On-Premies	`|	Giải pháp công nghệ hỗ trợ doanh nghiệp lưu trữ dữ liệu tại chỗ	|
 |`	Machine-learning 	`|	Học thuật máy học - tiền sử của AI - tiền thân quan trọng của trí tạo	|
-|`	Data Mining	`|	"Quá trình phân loại, sắp xếp các tập hợp dữ liệu lớn để xác định các
- mẫu và thiết lập các mối liên hệ nhằm giải quyết các vấn đề"	|
+|`	Data Mining	`|	"Quá trình phân loại, sắp xếp các tập hợp dữ liệu lớn để xác định các  mẫu và thiết lập các mối liên hệ nhằm giải quyết các vấn đề"	|
 |`	Computer vision	`|	Xử lí và nhận dạng hình ảnh	|
 |`	Petabyte	`|	1 PB = 1024 TB = 1024 *1024 GB 	|
-|`	Apache	`|	"Là chương trình máy chủ HTTP là một chương trình
- dành cho máy chủ đối thoại qua giao thức HTTP."	|
+|`	Apache	`|	"Là chương trình máy chủ HTTP là một chương trình  dành cho máy chủ đối thoại qua giao thức HTTP."	|
 |`	Sybase	`|	Chúng ta cùng tìm hiểu một số hệ quản trị cơ sở dữ liệu phổ biến trên thế giới	|
 |`	Hadoop	`|	Là một Apache framework mã nguồn mở cho phép phát triển các ứng dụng phân tán	|
-|`	SQL Server	`|	"là một loại phần mềm đã được phát triển bởi Microsoft và nó được sử
- dụng để có thể dễ dàng lưu trữ cho những dữ liệu dựa theo tiêu chuẩn RDBMS"	|
+|`	SQL Server	`|	"là một loại phần mềm đã được phát triển bởi Microsoft và nó được sử  dụng để có thể dễ dàng lưu trữ cho những dữ liệu dựa theo tiêu chuẩn RDBMS"	|
 |`	MySQL	`|	 Là một hệ quản trị cơ sở dữ liệu SQL mã nguồn mở	|
 |`	Oracle	`|	 Một hệ quản trị cơ sở dữ liệu đa mô hình	|
-|`	Microsoft IIS. NET	`|	"Bản web server đầu tiên được phát triển nhằm giúp Microsoft 
-xử lý lượng truy cập vào website Microsoft.com"	|
+|`	Microsoft IIS. NET	`|	"Bản web server đầu tiên được phát triển nhằm giúp Microsoft  xử lý lượng truy cập vào website Microsoft.com"	|
 |`	SaaS (Software as a Service)	`|	Là một công nghệ của điện toán đám mây nhưng coi phần mềm là một dịch vụ 	|
 |`	PaaS (Platform as a Service)	`|	Phần mềm được xem như là một dịch vụ 	|
 |`	IaaS (Infrastructure as a Service)	`|	Hệ tầng được xem như là một dịch vụ	|
@@ -290,18 +268,12 @@ Tìm các sản phẩm thuộc các nền tảng Saas, Pass và Iaas trên Thế
 |Key word| giải thích|
 |:-------------------- |:--------------------------------------------------------------------------------------------------|
 |`	-	`|	Hệ thống hạ tầng	|
-|`	-	`|	"Chuyển đổi số trong ngành giáo dục, nghĩa là việc áp dụng
- công nghệ, dựa vào mục đích, cơ cấu của doanh nghiệp giáo dục."	|
-|`	Lean Startup	`|	"Là phương pháp để phát triển kinh doanh và sản phẩm mới với một quy trình
- rút gọn nhằm phát triển sản phẩm nhanh chóng và đem đến giá trị sớm nhất cho khách hàng"	|
-|`	Transistor	`|	"Là một loại linh kiện bán dẫn chủ động, thường được 
-sử dụng như một phần tử khuếch đại hoặc một khóa điện tử."	|
-|`	Metcalfe's Law 	`|	"Là một khái niệm được sử dụng trong mạng máy tính
- và viễn thông để đại diện cho giá trị của một mạng"	|
-|`	Public Cloud	`|	"Là một nền tảng sử dụng mô hình điện toán đám mây tiêu
- chuẩn để làm cho các tài nguyên có thể sử dụng được từ xa."	|
-|`	BFE (Bacterial Filtration Efficiency)	`|	"Là loại xét nghiệm để đánh giá hiệu quả lọc vi khuẩn bằng cách 
-so sánh số lượng vi khuẩn mà vật liệu hoặc thiết bị đó lọc được."	|
+|`	-	`|	"Chuyển đổi số trong ngành giáo dục, nghĩa là việc áp dụng công nghệ, dựa vào mục đích, cơ cấu của doanh nghiệp giáo dục."	|
+|`	Lean Startup	`|	"Là phương pháp để phát triển kinh doanh và sản phẩm mới với một quy trình rút gọn nhằm phát triển sản phẩm nhanh chóng và đem đến giá trị sớm nhất cho khách hàng"	|
+|`	Transistor	`|	"Là một loại linh kiện bán dẫn chủ động, thường được  sử dụng như một phần tử khuếch đại hoặc một khóa điện tử."	|
+|`	Metcalfe's Law 	`|	"Là một khái niệm được sử dụng trong mạng máy tính  và viễn thông để đại diện cho giá trị của một mạng"	|
+|`	Public Cloud	`|	"Là một nền tảng sử dụng mô hình điện toán đám mây tiêu  chuẩn để làm cho các tài nguyên có thể sử dụng được từ xa."	|
+|`	BFE (Bacterial Filtration Efficiency)	`|	"Là loại xét nghiệm để đánh giá hiệu quả lọc vi khuẩn bằng cách so sánh số lượng vi khuẩn mà vật liệu hoặc thiết bị đó lọc được."	|
 |`	Platform	`|	Phần mềm	|
 |`	-	`|	Mạng hạ tầng và truyền thông 	|
 |`	-	`|	Các dịch vụ tích hợp hệ thống 	|
@@ -318,11 +290,8 @@ Phân biệt mô hình OSI (4 lớp) 4 lớp và 7 lớp
 |Key word| giải thích|
 |:-------------------- |:--------------------------------------------------------------------------------------------------|
 |`	Firmware	`|	 Những chương trình máy tính cố định và điều khiển cấp thấp nhiều thiết bị điện tử. 	|
-|`	OS (Operating System)	`|	"là một chương trình quản lý tất cả những yếu tố 
-như phần cứng và phần mềm của máy tính"	|
-|`	e-Business	`|	"Lá trình kinh doanh online của doanh nghiệp. Quá trình này bao gồm những công đoạn như
- quản trị hoạt động kinh doanh online, marketing 
-thông qua Affiliate (đối tác), quản lý hoạt động logistics"	|
+|`	OS (Operating System)	`|	"là một chương trình quản lý tất cả những yếu tố  như phần cứng và phần mềm của máy tính"	|
+|`	e-Business	`|	"Lá trình kinh doanh online của doanh nghiệp. Quá trình này bao gồm những công đoạn như quản trị hoạt động kinh doanh online, marketing  thông qua Affiliate (đối tác), quản lý hoạt động logistics"	|
 |`	Cisco	`|	là thương hiệu nổi tiếng, được người dùng biết đến với sản phẩm bộ định tuyến	|
 |`	Java	`|	Ngôn ngữ lập trình	|
 |`	Firewall	`|	là bức tường lửa một hệ thống an ninh mạng, bảo mật an toàn thông tin mạng	|
@@ -333,25 +302,21 @@ thông qua Affiliate (đối tác), quản lý hoạt động logistics"	|
 |`	-	`|	-	|
 |`	LAN (Local area network)	`|	Cho phép các máy tính kết nối với nhau để cùng làm việc và chia sẻ dữ liệu	|
 |`	MAN (Metropolitan area network)	`|	Là mạng đô thị liên kết từ nhiều mạng LAN qua dây cáp, các phương tiện truyền dẫn khác	|
-|`	WAN (Wide area network)	`|	"là mạng diện rộng được kết hợp giữa các mạng
- đô thị bao gồm cả mạng MAN và mạng LAN"	|
+|`	WAN (Wide area network)	`|	"là mạng diện rộng được kết hợp giữa các mạng đô thị bao gồm cả mạng MAN và mạng LAN"	|
 |`	WINMAX	`|	-	|
-|`	SAN (Storage Area Networking)	`|	" là mạng lưu trữ là một mạng chuyên dụng, 
-hoàn toàn tách biệt với các mạng LAN và WAN"	|
+|`	SAN (Storage Area Networking)	`|	" là mạng lưu trữ là một mạng chuyên dụng, hoàn toàn tách biệt với các mạng LAN và WAN"	|
 |`	EPN	`|		|
 |`	VPN (Virtual Private Network)	`|	cho phép người dùng thiết lập mạng riêng ảo với một mạng khác trên Internet	|
-|`	PDAs (PAN) personal area network	`|	"là một mạng máy tính dành cho các thiết bị kết 
-nối tập trung vào một không gian làm việc của một cá nhân"	|
+|`	PDAs (PAN) personal area network	`|	"là một mạng máy tính dành cho các thiết bị kết nối tập trung vào một không gian làm việc của một cá nhân"	|
 |`	IPv4	`|	độ dài địa chỉ 32 bit 	|
 |`	IPv6	`|	độ dài địa chỉ 128 bit	|
 |`	PTS	`|	-	|
-|`	Network Topology	`|	"xem như một chiếc chìa khóa đa năng giúp mở rộng hiệu suất hoạt
- động của dữ liệu trên hệ thống mạng bằng cách tự động hóa
- các thao tác sắp xếp, mô tả và liên kết các nút thông tin."	|
+|`	Network Topology	`|	"xem như một chiếc chìa khóa đa năng giúp mở rộng hiệu suất hoạtđộng của dữ liệu trên hệ thống mạng bằng cách tự động hóa  các thao tác sắp xếp, mô tả và liên kết các nút thông tin."	|
 |`	Intranet	`|	Nội bộ công ty/ tổ chức	|
 |`	Extranet	`|	Nội bộ công ty/ tổ chức có mở rộng kết nối với tổ chức, đối tác, khách hàng 	|
 |`	Internet	`|	Mạng toàn cầu 	|
 |`	DNS (Domain Name System)	`|	là một hệ thống chuyển đổi các tên miền website mà chúng ta đang sử dụng	|
+
 {{< admonition tip "Bài Tập Về Nhà" >}}
 + Bộ chuyển đổi USB Wifi TP-link Arder TPU Plus công suất cao AC600
 + Ổ cứng di động
