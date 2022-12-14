@@ -8,6 +8,7 @@ description: "Discover what the Hugo - LoveIt theme is all about and the core-co
 images: []
 resources:
 - name: "featured-image"
+- 
   src: "featured-image.jpg"
 
 tags: ["installation", "configuration"]
@@ -238,8 +239,8 @@ và phát triển trí tuệ nhân tạo đến năm 2030"	|
 |`	Microsoft Azue	`|	"Là một nền tảng điện toán đám mây công cộng với các giải pháp bao gồm Cơ sở hạ tầng dưới dạng dịch vụ (IaaS), Nền tảng dưới dạng  dịch vụ (PaaS) và Phần mềm dưới dạng dịch vụ (SaaS)"	|
 |`	Amazon Web Service (AWS)	`|	"là nền tảng đám mây toàn diện và được sử dụng rộng rãi nhất,  cung cấp trên 200 dịch vụ đầy đủ tính năng từ các trung tâm dữ liệu trên toàn thế giới."	|
 |`	Multitiered Server	`|	Đa máy chủ	|
-|`	Virtual Machine	`|	" Một chương trình giả lập một hệ thống máy tính, được chạy trên hệ điều hành chủ và hoạt động như một máy tính thật."	|
 |`	Cloud Solution	`|	Giải pháp đám mây	|
+|`	Virtual Machine	`|	" Một chương trình giả lập một hệ thống máy tính, được chạy trên hệ điều hành chủ và hoạt động như một máy tính thật."	|
 |`	Data Warehouse	`|	Kho lưu trữ dữ liệu lưu trữ bằng thiết bị điện tử của một tổ chức	|
 |`	On-Premies	`|	Giải pháp công nghệ hỗ trợ doanh nghiệp lưu trữ dữ liệu tại chỗ	|
 |`	Machine-learning 	`|	Học thuật máy học - tiền sử của AI - tiền thân quan trọng của trí tạo	|
