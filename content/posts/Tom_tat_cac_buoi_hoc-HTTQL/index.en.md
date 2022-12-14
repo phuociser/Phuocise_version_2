@@ -123,8 +123,8 @@ Tự luận (**35%**)
 | `Pay rate`          |Mức lương|
 | `General ledger `          | Kế toán tổng hợp - KT trưởng    |
 
-{{< admonition tip "Bài Tập Về Nhà" >}}
 
+{{< admonition tip "Bài Tập Về Nhà" >}}
 -	Tìm hiểu lý thuyết cạnh tranh của Poster
 -	Tiếp tục hoàn thành bài tập mô phỏng tổng quan về 1 tổ chức/doanh nghiệp
 {{< /admonition >}}
@@ -136,7 +136,7 @@ Tự luận (**35%**)
 |`Systems for Collaboration `|	Hệ thống phối hợp	-	|
 |`UseCase` |- Actor	Lược đồ chức năng hệ thống 	-	|
 |`Mind mapping`| 	Lược đồ tư duy	-	|
-|Co-browsing`| 	Trang trình duyệt 	-	|
+|`Co-browsing`| 	Trang trình duyệt 	-	|
 |`White boarding`| 	Bảng trắng tương tác 	Tạo vòng không gia có thể tương tác trực tiếp giữa các thành viên trong nhóm với nhau 	|
 |`CIO (Chief information officer)`|	Giám đốc dữ liệu 	-	|
 |`CSO(Chief security officer`)|	Giám đốc bảo mật 	-	|
@@ -218,6 +218,7 @@ và phát triển trí tuệ nhân tạo đến năm 2030"	|
 |`	Doubling of computer power	`|	"Nhiều tổ chức phụ thuộc vào hệ thống máy tính cho các hoạt động quan trọng"	|
 |`	Rapidly declining data storage costs	`|	Có thể dễ dàng duy trì cơ sở dữ liệu chi tiết về các cá nhân	|
 |`	Networking advances and the Internet	`|	"Sao chép dữ liệu từ vị trí này sang vị trí khác  và truy cập dữ liệu cá nhân từ các vị trí từ xa"	|
+
 {{< admonition tip "Bài Tập Về Nhà" >}}
 
 -	Cookies là gì?
@@ -237,8 +238,7 @@ và phát triển trí tuệ nhân tạo đến năm 2030"	|
 |`	Microsoft Azue	`|	"Là một nền tảng điện toán đám mây công cộng với các giải pháp bao gồm Cơ sở hạ tầng dưới dạng dịch vụ (IaaS), Nền tảng dưới dạng  dịch vụ (PaaS) và Phần mềm dưới dạng dịch vụ (SaaS)"	|
 |`	Amazon Web Service (AWS)	`|	"là nền tảng đám mây toàn diện và được sử dụng rộng rãi nhất,  cung cấp trên 200 dịch vụ đầy đủ tính năng từ các trung tâm dữ liệu trên toàn thế giới."	|
 |`	Multitiered Server	`|	Đa máy chủ	|
-|`	Virtual Machine	`|	" Một chương trình giả lập một hệ thống máy tính, được
- chạy trên hệ điều hành chủ và hoạt động như một máy tính thật."	|
+|`	Virtual Machine	`|	" Một chương trình giả lập một hệ thống máy tính, được chạy trên hệ điều hành chủ và hoạt động như một máy tính thật."	|
 |`	Cloud Solution	`|	Giải pháp đám mây	|
 |`	Data Warehouse	`|	Kho lưu trữ dữ liệu lưu trữ bằng thiết bị điện tử của một tổ chức	|
 |`	On-Premies	`|	Giải pháp công nghệ hỗ trợ doanh nghiệp lưu trữ dữ liệu tại chỗ	|
