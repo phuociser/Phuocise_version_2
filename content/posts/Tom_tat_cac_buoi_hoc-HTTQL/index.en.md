@@ -207,8 +207,7 @@ Tự luận (**35%**)
 |`	"Information Rights and Obliagations"	`|	"Quyền và nghĩa vụ liên quan đến thông tin "	|
 |`	"Property Rights and Obligations"	`|	"Quyền và nghĩa vụ liên quan đến tài sản"	|
 |`	Accountabilly and Control 	`|	Trách nhiệm giải trình và kiểm soát 	|
-|`	-	`|	"Chiến lược quốc gia về nghiên, ứng dụng 
-và phát triển trí tuệ nhân tạo đến năm 2030"	|
+|`	-	`|	"Chiến lược quốc gia về nghiên, ứng dụng và phát triển trí tuệ nhân tạo đến năm 2030"	|
 |`	Quality of life	`|	"Chất lượng cuộc sống  (lĩnh vực kinh doanh)"	|
 |`	"NORA  (Nonbvious Relationship Awareness)"	`|	"Công nghệ nhận thức  mối quan hệ cục bộ "	|
 |`	CIC (Credit Information Center)	`|	Trung tâm hệ thống thông tin tín dụng 	|
@@ -369,8 +368,7 @@ Phân biệt mô hình OSI (4 lớp) 4 lớp và 7 lớp
 |`	HDD (Solid State Drive)	`|	"là ổ cứng điện tử lưu trữ dữ liệu trên bộ nhớ flash trạng thái rắn bằng cách sử dụng bộ nhớ bán dẫn"	|
 |`	SDD (Hard Disk Drive)	`|	"là bộ nhớ không thay đổi nghĩa là không bị mất dữ liệu khi ngừng cung cấp nguồn điện"	|
 |`	FDD (Floppy Disk Drive)	`|	là một thiết bị sử dụng để đọc và ghi dữ liệu từ các đĩa mềm	|
-|`	-	`|	"Là tên của trang web hoạt động trên 
-internet, là địa chỉ IP cho mỗi Website "	|
+|`	-	`|	"Là tên của trang web hoạt động trên  internet, là địa chỉ IP cho mỗi Website "	|
 |`	Subdomain	`|	"Là phần mở rộng của một tên miền. Subdomain có thể được tạo hoàn toàn miễn phí và nó có thể hoạt động như một tên miền thực thụ."	|
 |`	TLD (Top level Domain)	`|	"là phần mở rộng sau cuối của tên miền, nằm sau dấu chấm ở cuối cùng."	|
 |`	RFID (Radio Frequency Identification)	`|	" Nhận dạng qua tần số vô tuyến, là một công nghệ dùng kết nối sóng vô tuyến để tự động xác định và theo dõi các thẻ nhận dạng gắn vào vật thể."	|
