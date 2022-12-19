@@ -4,12 +4,11 @@ title: "Tóm Tắt các buổi học - HTTQL"
 draft: false
 author: "PhuocISE"
 authorLink: "https://www.facebook.com/phuocvuiver/"
-description: "Discover what the Hugo - LoveIt theme is all about and the core-concepts behind it."
+description: "Tóm tắt môn học HTTQL"
 images: []
 resources:
 - name: "featured-image"
-- 
-  src: "featured-image.jpg"
+- src: "featured-image.jpg"
 
 tags: ["installation", "configuration"]
 categories: ["documentation"]
