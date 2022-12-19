@@ -325,3 +325,16 @@ Phân biệt mô hình OSI (4 lớp) 4 lớp và 7 lớp
 + Bộ thu phát VAPAC PRO 1750 Mbps
 {{< /admonition >}}
 
+## Buổi 11:Ngày 02/11/2022
+|Nhóm| Nhận xét|
+|:-------------------- |:--------------------------------------------------------------------------------------------------|
+|`	Nhóm 1	`|	 • Công ty: Sài Gòn Coop
+• Chủ đề: Thiết kế quy trình kiểm soát lộ trình
+• Nhận xét: Biểu đồ Business Model Canvas (BMC) bố trí đúng vị trí (2H, 1T), đầy đủ thông tin; MOT và BMC chưa thống nhất ngôn ngữ; MOT đầy đủ, rõ ràng các nội dung; BFD và Use Case có sự tương tác giữa các Actors	|
+|`	Nhóm 3		`|		• Công ty: Khanh Thành
+• Chủ đề: Thiết kế hệ thống thông tin quản lý kho
+• Nhận xét: Biểu đồ Business Model Canvas (BMC) đầy đủ thông tin; Có quy trình hoạch định vật tư, quy trình kho|
+|`	Nhóm 4	`|		• Công ty: TNHH Hoá dầu Long Sơn
+• Chủ đề: Xây dựng hệ thống thông tin quản lí vận tải cho Công ty TNHH Hoá dầu Long Sơn
+• Nhận xét: Cột dữ liệu Value Propertition chỉ có 2 tiêu chí, chưa cụ thể; BFD có tổng cộng 5 chức năng chính và 23 chức năng chi tiết; Use Case có 25 Use Case và 6 Actors; Chưa nêu rõ được giá trị cốt lõi trong BFC; Chưa đồng nhất ngôn ngữ trong quy trình tổng thể; Nhìn chung nhóm đầy đủ nội dung	|
+
