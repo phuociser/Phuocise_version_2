@@ -8,7 +8,7 @@ description: "Tóm tắt môn học HTTQL"
 images: []
 resources:
 - name: "featured-image"
-- src: "featured-image.jpg"
+  src: "featured-image.jpg"
 
 tags: ["installation", "configuration"]
 categories: ["documentation"]
