@@ -362,7 +362,6 @@ Phân biệt mô hình OSI (4 lớp) 4 lớp và 7 lớp
 |`	DCL ((Data Control Language)	`|	"được sử dụng để cấp và thu hồi quyền truy cập của người dùng trên cơ sở dữ liệu."	|
 |`	DBMS ( Database Management System)	`|	"hệ thống phần mềm cho phép người dùng xác định, tạo, duy trì và kiểm soát truy cập vào cơ sở dữ liệu"	|
 |`	"TSMC(Taiwan Semiconductor Manufacturing Company)"	`|	Hãng gia công chip lớn nhất thế giới	|
-|`	-	`|	-	|
 |`	Synology	`|	"là nơi sản xuất sản phẩm công nghê cho doanh nghiệp vừa phần cứng và phần mềm"	|
 |`	GRANT SELECT, INSERT	`|	Phân quyền người dùng được phép xem và thêm dữ liệu vào bảng 	|
 |`	Contract KEY	`|	Lệnh Khóa chính - dữ liệu là duy nhất không được trùng	|
