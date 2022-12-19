@@ -325,16 +325,64 @@ Phân biệt mô hình OSI (4 lớp) 4 lớp và 7 lớp
 + Bộ thu phát VAPAC PRO 1750 Mbps
 {{< /admonition >}}
 
-## Buổi 11:Ngày 02/11/2022
+## Buổi 11:Ngày 02/12/2022
+|Nhóm       | Công ty|Chủ đề|Nhận xét|
+|:-------------------- |:---|:---|:------------------------------------------------------------------------------------------------|
+|`	Nhóm 1	`|	  Sài Gòn Coop | Thiết kế quy trình kiểm soát lộ trình|Biểu đồ Business Model Canvas (BMC) bố trí đúng vị trí (2H, 1T), đầy đủ thông tin; MOT và BMC chưa thống nhất ngôn ngữ; MOT đầy đủ, rõ ràng các nội dung; BFD và Use Case có sự tương tác giữa các Actors	|
+|`	Nhóm 3		`|	Khanh Thành| Thiết kế hệ thống thông tin quản lý kho| Biểu đồ Business Model Canvas (BMC) đầy đủ thông tin; Có quy trình hoạch định vật tư, quy trình kho|
+|`	Nhóm 4	`|TNHH Hoá dầu Long Sơn|Xây dựng hệ thống thông tin quản lí vận tải cho Công ty TNHH Hoá dầu Long Sơn|Cột dữ liệu Value Propertition chỉ có 2 tiêu chí, chưa cụ thể; BFD có tổng cộng 5 chức năng chính và 23 chức năng chi tiết; Use Case có 25 Use Case và 6 Actors; Chưa nêu rõ được giá trị cốt lõi trong BFC; Chưa đồng nhất ngôn ngữ trong quy trình tổng thể; Nhìn chung nhóm đầy đủ nội dung	|
+## Buổi 12:Ngày 09/12/2022
+|Key word| giải thích|
+|:-------------------- |:--------------------------------------------------------------------------------------------------|
+|`	NAS (Network Attached Storage)	`|	"NAS là các thiết bị lưu trữ ổ cứng mà bạn có thể kết nối với mạng gia đình hoặc văn phòng cho phép nhiều máy tính trong cùngmột mạng chia sẻ vùng một không gian lưu trữ cùng một lúc."	|
+|`	SAN (Storage Area Network)	`|	"SAN là một mạng tốc độ cao chuyện dụng để kết nối và chia sẽ các khodữ liệu chung giữa các thiết bị lưu trữ cũng như với nhiều server với nhau"	|
+|`	ASP.net	`|	"ASP.NET là một nền tảng ứng dụng web được phát triển và cung cấp bởi Microsoft, cho phép những người lập trình tạo ra những trang web động, những ứng dụng web và những dịch vụ web"	|
+|`	PHP (Hypertext Preprocessor)	`|	"là một ngôn ngữ lập trình kịch bản hay một loại mã lệnh chủ yếu được dùng để phát triểncác ứng dụng viết cho máy chủ, mã nguồn mở, dùng cho mục đích tổng quát"	|
+|`	HTML (Hypertext Markup Language)	`|	là một ngôn ngữ đánh dấu được thiết kế ra để tạo nên các trang web trên World Wide Web	|
+|`	CSS (Cascading Style Sheets)	`|	được dùng để miêu tả cách trình bày các tài liệu viết bằng ngôn ngữ HTML và XHTML	|
+|`	XML (Extensible Markup Language)	`|	là ngôn ngữ đánh dấu với mục đích chung do W3C đề nghị, để tạo ra các ngôn ngữ đánh dấu khác	|
+|`	Javascript	`|	là một ngôn ngữ lập trình thông dịch được phát triển từ các ý niệm nguyên mẫu.	|
+|`	"TCP/IP (Transmission Control Protocol/ Internet Protocol)"	`|	"là bộ giao thức Internet là một mô hình khái niệm và một tập hợp các giao thức truyền thông dùng trong mạng Internet và các hệ thống mạng máy tính tương tự"	|
+|`	FTP (File Transfer Protocol)	`|	thường được dùng để trao đổi tập tin qua mạng lưới truyền thông dùng giao thức TCP/IP.	|
+|`	HTTP (Hyper Text Transfer Protocol)	`|	là giao thức truyền tải siêu văn bản được sử dụng trong www dùng để truyền tải dữ liệu giữa Web server	|
+|`	HTTPs (Hypertext Transfer Protocol Secure)	`|	là giao thức truyền tải siêu văn bản. Đây là giao thức tiêu chuẩn cho World Wide Web (www)	|
+|`	Blockchain 	`|	là công nghệ cơ sở dữ liệu sáng tạo, trung tâm của gần như tất cả các loại tiền điện tử.	|
+|`	DNS (Domain Name System)	`|	"Hệ thống phân giải tên miền là một hệ thống cho phép thiết lập tương ứng giữa địa chỉ IP và tên miền trên Internet."	|
+|`	VNNIC	`|	Trang chính thức của bộ thông tin truyền thông	|
+|`	RFID (Radio Frequency Identification)	`|	"là một công nghệ sử dụng trường điện từ để tự động nhận dạngvà theo dõi các thẻ hỗ trợ công nghệ này được gắn vào đối tượng"	|
+|`	MB/s  ( Megabyte)	`|	-	|
+|`	Gbps (Gigabit)	`|	-	|
+|`	Bitlocker	`|	"Công cụ mã hóa BitLocker của Microsoft cung cấp khả năng mã hóa để đề phòng dữ liệu bị thất lạc khi máy tính bị đánh cắp hay bị mất."	|
+|`	ISPs, NAPs, NSPs, IAPs	`|	-	|
+|`	PoE (Power Over Ethernet )	`|	"công nghệ cho phép truyền tải nguồn điện trực tiếp trên sợi cáp mạng"	|
+|`	Seagate/ WD (Western Digital)	`|	là một trong những nhà sản xuất ổ đĩa cứng lớn nhất thế giớ	|
+|`	QNAP	`|	 là một công ty có chuyên môn chính là sản xuất các thiết bị lưu trữ	|
+|`	DDL (Data Definition Language)	`|	"một ngôn ngữ máy tính được tạo ra để sửa đổi cấu trúc của các đối tượng dữ liệu trong cơ sở dữ liệu."	|
+|`	DML (Data Manipulation Language)	`|	"câu lệnh truy vấn, thêm xóa sửa mà chúng ta thường dùng khi làm việc với dữ liệu lưu trữ trong SQL Server."	|
+|`	DCL ((Data Control Language)	`|	"được sử dụng để cấp và thu hồi quyền truy cập của người dùng trên cơ sở dữ liệu."	|
+|`	DBMS ( Database Management System)	`|	"hệ thống phần mềm cho phép người dùng xác định, tạo, duy trì và kiểm soát truy cập vào cơ sở dữ liệu"	|
+|`	"TSMC(Taiwan Semiconductor Manufacturing Company)"	`|	Hãng gia công chip lớn nhất thế giới	|
+|`	-	`|	-	|
+|`	Synology	`|	"là nơi sản xuất sản phẩm công nghê cho doanh nghiệp vừa phần cứng và phần mềm"	|
+|`	GRANT SELECT, INSERT	`|	Phân quyền người dùng được phép xem và thêm dữ liệu vào bảng 	|
+|`	Contract KEY	`|	Lệnh Khóa chính - dữ liệu là duy nhất không được trùng	|
+|`	SELECT	`|	Lệnh select giúp truy vấn dữ liệu	|
+|`	HDD (Solid State Drive)	`|	"là ổ cứng điện tử lưu trữ dữ liệu trên bộ nhớ flash trạng thái rắn bằng cách sử dụng bộ nhớ bán dẫn"	|
+|`	SDD (Hard Disk Drive)	`|	"là bộ nhớ không thay đổi nghĩa là không bị mất dữ liệu khi ngừng cung cấp nguồn điện"	|
+|`	FDD (Floppy Disk Drive)	`|	là một thiết bị sử dụng để đọc và ghi dữ liệu từ các đĩa mềm	|
+|`	-	`|	"Là tên của trang web hoạt động trên 
+internet, là địa chỉ IP cho mỗi Website "	|
+|`	Subdomain	`|	"Là phần mở rộng của một tên miền. Subdomain có thể được tạo hoàn toàn miễn phí và nó có thể hoạt động như một tên miền thực thụ."	|
+|`	TLD (Top level Domain)	`|	"là phần mở rộng sau cuối của tên miền, nằm sau dấu chấm ở cuối cùng."	|
+|`	RFID (Radio Frequency Identification)	`|	" Nhận dạng qua tần số vô tuyến, là một công nghệ dùng kết nối sóng vô tuyến để tự động xác định và theo dõi các thẻ nhận dạng gắn vào vật thể."	|
+
+## Buổi 13:Ngày 12/12/2022
 |Nhóm| Nhận xét|
 |:-------------------- |:--------------------------------------------------------------------------------------------------|
-|`	Nhóm 1	`|	 • Công ty: Sài Gòn Coop
-• Chủ đề: Thiết kế quy trình kiểm soát lộ trình
-• Nhận xét: Biểu đồ Business Model Canvas (BMC) bố trí đúng vị trí (2H, 1T), đầy đủ thông tin; MOT và BMC chưa thống nhất ngôn ngữ; MOT đầy đủ, rõ ràng các nội dung; BFD và Use Case có sự tương tác giữa các Actors	|
-|`	Nhóm 3		`|		• Công ty: Khanh Thành
-• Chủ đề: Thiết kế hệ thống thông tin quản lý kho
-• Nhận xét: Biểu đồ Business Model Canvas (BMC) đầy đủ thông tin; Có quy trình hoạch định vật tư, quy trình kho|
-|`	Nhóm 4	`|		• Công ty: TNHH Hoá dầu Long Sơn
-• Chủ đề: Xây dựng hệ thống thông tin quản lí vận tải cho Công ty TNHH Hoá dầu Long Sơn
-• Nhận xét: Cột dữ liệu Value Propertition chỉ có 2 tiêu chí, chưa cụ thể; BFD có tổng cộng 5 chức năng chính và 23 chức năng chi tiết; Use Case có 25 Use Case và 6 Actors; Chưa nêu rõ được giá trị cốt lõi trong BFC; Chưa đồng nhất ngôn ngữ trong quy trình tổng thể; Nhìn chung nhóm đầy đủ nội dung	|
-
+|`	Công ty Mạc Tích	`|	Quy trình sơ sài, thông tin mang tính rời rạc, xóa dữ liệu thay vì cập nhật 168 framé, 6 actor, 11 usecase	|
+|`	Công ty Bao bì Khang Thành	`|	27 usecase, 7 actor Hệ thống chỉ lưu được từ một phía	|
+|`	Công ty Kềm Nghĩa	`|	Không biết dùng trên nền tảng nào 3 actor, 9 usecase, 68 frames	|
+|`	Cty nhựa tự động OMEGA`|	6 actor, 21 use case, 79 frames Lược đồ ERD thiếu mối quan hệ,	|
+|`	Longhuei`|	Xoá thông tin, dùng file excel Ko có mac định doanh thông tin nhà cung cấp cá nhân ( dùng mã số thuế ) 7 usecase, 7 actor, 140 frames	|
+|`	Saigon Coop`|	Hệ thống TMS 6 actor, 13 usecase	|
+|`	POSM`|	2 actor, 18 usecase, 78 frames	|
